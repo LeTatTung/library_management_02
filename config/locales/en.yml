@@ -30,3 +30,10 @@ en:
     title: Contact page
   search:
     title: Search our website
+  admin:
+    title: Manager library
+    user: Users
+    category: Categories
+    book: Books
+    author: Authors
+    publisher: Publishers
